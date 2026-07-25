@@ -24,7 +24,7 @@ I enjoy building AI-powered applications using Python and continuously improving
 - Computer Vision
 - Deep Learning
 - AI Engineering
-- python
+
 
 ---
 
