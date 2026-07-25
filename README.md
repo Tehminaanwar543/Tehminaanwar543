@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Tehmina Anwar Banner" width="100%">
+</p>
+
+<br>
 <h1 align="center">Hi 👋, I'm Tehmina Anwar</h1>
 
 <h3 align="center">
